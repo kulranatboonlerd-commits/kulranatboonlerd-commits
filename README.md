@@ -1,18 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kulranut
-=================================================================================================================================
+<h1 align="center">✨ Welcome to My Profile ✨</h1>
 
-Student
--------
+<p align="center">
+  <b>Hi 👋 My name is Kulranut | Student 🤍 🦄</b>
+</p>
+
+---
+
+### 🐻 About Me
 
 I am a student interested in programming, digital logic design, and circuit development. Currently focusing on building my skills in coding and logic circuits.
 
-* 🌍  I'm based in Thailand
-* 🧠  I'm currently learning Data Structures & Algorithms, Python, Digital Logic Circuits, Ubuntu/Linux, and Version Control (Git)
-* 👥  I'm looking to collaborate on Interesting beginner projects
-* 💬  Ask me about Fixing 1 bug and accidentally creating 5 new ones... but hey, that's magic!
+* 🌍 **I'm based in :** Thailand
+* 🧠 **I'm currently learning :** Data Structures & Algorithms, Python, Digital Logic Circuits, Ubuntu/Linux, and Version Control (Git)
+* 🤝 **I'm looking to collaborate on :** Interesting beginner projects
+* 💬 **Ask me about :** Fixing 1 bug and accidentally creating 5 new ones... but hey, that's magic!
+
+### 🖥️ Tech Stack / เทคโนโลยีที่ศึกษา
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ### Socials
